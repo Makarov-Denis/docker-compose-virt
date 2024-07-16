@@ -82,7 +82,7 @@ Hey, Netology
 
 ![Проверка работы6](https://github.com/user-attachments/assets/fdbec35b-91a3-4717-b00d-f3712cd8d7ec)
 
-![Проверка работы4](https://github.com/user-attachments/assets/eccefc8a-34a0-45a5-b7f7-6b2c57cf5876)
+
 
 
 ## Задача 4
