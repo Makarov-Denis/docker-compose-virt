@@ -172,6 +172,10 @@ services:
 
 Представлено ниже:
 
+![compose up1](https://github.com/user-attachments/assets/9c94394d-0a9b-493a-9a10-8986644df5a6)
+
+отработал только файл compose.yaml . Причина - потому что это имя файла докер обрабатывает в приоритете - by designe.
+
 Созданный docker.yaml c include
 
 ```
@@ -187,10 +191,6 @@ services:
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock
 ```
-
-![compose up1](https://github.com/user-attachments/assets/9c94394d-0a9b-493a-9a10-8986644df5a6)
-
-отработал только файл compose.yaml . Причина - потому что это имя файла докер обрабатывает в приоритете - by designe.
 
 ![compose up2](https://github.com/user-attachments/assets/b5c87827-ee87-47ee-a476-e0d3264bc633)
 
