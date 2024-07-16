@@ -32,7 +32,7 @@ Hey, Netology
 
 "https://hub.docker.com/repository/docker/dimakarov/custom-nginx/general"
 
-
+![docker-hub](https://github.com/user-attachments/assets/74cf5b92-a49a-4882-b1de-d56780ed305d)
 
 ## Задача 2
 1. Запустите ваш образ custom-nginx:1.0.0 командой docker run в соответвии с требованиями:
@@ -44,6 +44,16 @@ Hey, Netology
 4. Убедитесь с помощью curl или веб браузера, что индекс-страница доступна.
 
 В качестве ответа приложите скриншоты консоли, где видно все введенные команды и их вывод.
+
+Решение:
+
+Использованные команды представлены на скриншотах ниже:
+
+![pereimenovanie](https://github.com/user-attachments/assets/f2bfce8b-515b-4864-992f-0347c7524d87)
+
+![Проверка работы2](https://github.com/user-attachments/assets/7e50c006-f894-4cb6-b0b6-6686d0d1a782)
+
+![Проверка работы3](https://github.com/user-attachments/assets/9a9be93c-8dd8-449c-a57e-91de27e85ab5)
 
 
 ## Задача 3
