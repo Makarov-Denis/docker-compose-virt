@@ -87,8 +87,9 @@ Hey, Netology
 
 ![Проверка работы5](https://github.com/user-attachments/assets/c2f0576d-a646-4ac6-8123-a571f56f4e16)
 
-![Проверка работы6](https://github.com/user-attachments/assets/fdbec35b-91a3-4717-b00d-f3712cd8d7ec)
+Внутри контейнера мы перенастроили NGINX слушать не порт 80 а слушать теперь порт 81. А в настройках докер осталось что докер пересылает со внешнего порта 8080 на порт контейнера 80 - а там никто не слушает этот порт. Поэтому нет ответа.
 
+![Проверка работы6](https://github.com/user-attachments/assets/fdbec35b-91a3-4717-b00d-f3712cd8d7ec)
 
 
 
