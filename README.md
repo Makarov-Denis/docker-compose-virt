@@ -72,6 +72,19 @@ Hey, Netology
 
 В качестве ответа приложите скриншоты консоли, где видно все введенные команды и их вывод.
 
+Решение:
+
+Представлены скриншоты ниже:
+
+![Снимок](https://github.com/user-attachments/assets/cd75be13-ed3b-4031-92bc-6ac0809ea71f)
+
+![Проверка работы5](https://github.com/user-attachments/assets/c2f0576d-a646-4ac6-8123-a571f56f4e16)
+
+![Проверка работы6](https://github.com/user-attachments/assets/fdbec35b-91a3-4717-b00d-f3712cd8d7ec)
+
+![Проверка работы4](https://github.com/user-attachments/assets/eccefc8a-34a0-45a5-b7f7-6b2c57cf5876)
+
+
 ## Задача 4
 
 
