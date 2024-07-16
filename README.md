@@ -105,7 +105,19 @@ Hey, Netology
 
 В качестве ответа приложите скриншоты консоли, где видно все введенные команды и их вывод.
 
+Решение:
 
+Выполненные команды представлены на скриншотах ниже:
+
+![4-1 zadanie](https://github.com/user-attachments/assets/e91c05ec-a7dc-402b-98a8-242d9663ed7e)
+
+![4-2 zadanie](https://github.com/user-attachments/assets/10244afc-120f-41c4-a466-8a70af37b734)
+
+![4-3 zadanie](https://github.com/user-attachments/assets/14175f2a-0ed7-44e9-b19f-16141952ff7c)
+
+![4-4 zadanie](https://github.com/user-attachments/assets/c8c52517-e072-484e-9dfe-e220f4e739fc)
+
+ 
 ## Задача 5
 
 1. Создайте отдельную директорию(например /tmp/netology/docker/task5) и 2 файла внутри него.
