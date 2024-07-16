@@ -76,6 +76,10 @@ Hey, Netology
 
 Представлены скриншоты ниже:
 
+![docker-attach](https://github.com/user-attachments/assets/f9d1a735-e2ae-44eb-8cc7-7fc18d967cde)
+
+Контейнер завершил свою работу, т.к. на вход контейнера был послан сигнал cntl-c = "signal 2 (SIGINT)" . Контейнер отработал сигнал (т.е. он может отрабатывать этот сигнал в его коде) и завершил работу и вывел в лог причину.
+
 ![Снимок](https://github.com/user-attachments/assets/cd75be13-ed3b-4031-92bc-6ac0809ea71f)
 
 ![Проверка работы5](https://github.com/user-attachments/assets/c2f0576d-a646-4ac6-8123-a571f56f4e16)
