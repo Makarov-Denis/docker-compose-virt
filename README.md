@@ -117,7 +117,9 @@ Hey, Netology
 
 ![4-4 zadanie](https://github.com/user-attachments/assets/c8c52517-e072-484e-9dfe-e220f4e739fc)
 
- 
+![zadanie 4-5](https://github.com/user-attachments/assets/ba7565a2-59e0-418b-a365-e0cf788efa10)
+
+
 ## Задача 5
 
 1. Создайте отдельную директорию(например /tmp/netology/docker/task5) и 2 файла внутри него.
@@ -193,7 +195,11 @@ services:
 
 - WARN[0000] Found orphan containers ([task5-portainer-1]) for this project. If you removed or renamed this service in your compose file, you can run this command with the --remove-orphans flag to clean it up.- означает предупреждение, что найдены контейнеры, которые не описаны в файле. для очистки их выполнить с флагом --remove-orphans :
 
+![docker remove](https://github.com/user-attachments/assets/842e2354-b301-4f5e-a2f9-8bf27807edbf)
 
+![docker ps](https://github.com/user-attachments/assets/748bf0e3-3ef9-4c69-8cc8-d4833f79ca48)
+
+![docker down](https://github.com/user-attachments/assets/fac1642f-ae0e-4978-951f-603a54408e3e)
 
 ---
 
