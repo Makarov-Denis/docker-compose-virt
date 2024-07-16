@@ -47,7 +47,7 @@ Hey, Netology
 
 Решение:
 
-Использованные команды представлены на скриншотах ниже:
+Представлено на скриншотах ниже:
 
 ![pereimenovanie](https://github.com/user-attachments/assets/f2bfce8b-515b-4864-992f-0347c7524d87)
 
@@ -166,6 +166,34 @@ services:
 7. Удалите любой из манифестов компоуза(например compose.yaml).  Выполните команду "docker compose up -d". Прочитайте warning, объясните суть предупреждения и выполните предложенное действие. Погасите compose-проект ОДНОЙ(обязательно!!) командой.
 
 В качестве ответа приложите скриншоты консоли, где видно все введенные команды и их вывод, файл compose.yaml , скриншот portainer c задеплоенным компоузом.
+
+Решение:
+
+Представлено на скриншотах ниже:
+
+![compose up1](https://github.com/user-attachments/assets/9c94394d-0a9b-493a-9a10-8986644df5a6)
+
+отработал только файл compose.yaml . Причина - потому что это имя файла докер обрабатывает в приоритете - by designe.
+
+![compose up2](https://github.com/user-attachments/assets/b5c87827-ee87-47ee-a476-e0d3264bc633)
+
+![docker ps](https://github.com/user-attachments/assets/91e6eac5-0700-4761-bcaf-5be1ea6fba3d)
+
+![obraz](https://github.com/user-attachments/assets/611c60a4-e08c-422b-b564-34fdb4ea6a14)
+
+![5 zadanie](https://github.com/user-attachments/assets/69190065-6f5d-48f2-833b-34f84fd5edb2)
+
+![5-1 zadanie](https://github.com/user-attachments/assets/fa36a91a-3cd1-4357-995b-966210a1121f)
+
+![inspect](https://github.com/user-attachments/assets/73fec467-aadd-4462-b468-a95264f36f91)
+
+![udalenie](https://github.com/user-attachments/assets/218caac9-c69f-4da4-8ae4-a806af56a998)
+
+- WARN[0000] /root/task5/docker-compose.yaml: `version` is obsolete - означает предупреждение, что версия устарела (видимо самого файла, т.к. содержимое файла не соотвествует запущенным сервисам).
+
+- WARN[0000] Found orphan containers ([task5-portainer-1]) for this project. If you removed or renamed this service in your compose file, you can run this command with the --remove-orphans flag to clean it up.- означает предупреждение, что найдены контейнеры, которые не описаны в файле. для очистки их выполнить с флагом --remove-orphans :
+
+
 
 ---
 
