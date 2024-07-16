@@ -206,7 +206,7 @@ services:
 
 ![udalenie](https://github.com/user-attachments/assets/218caac9-c69f-4da4-8ae4-a806af56a998)
 
-- WARN[0000] /root/task5/docker-compose.yaml: `version` is obsolete - означает предупреждение, что версия устарела (видимо самого файла, т.к. содержимое файла не соотвествует запущенным сервисам).
+- WARN[0000] /root/task5/docker-compose.yaml: version is obsolete - означает предупреждение, что версия устарела (видимо самого файла, т.к. содержимое файла не соотвествует запущенным сервисам).
 
 - WARN[0000] Found orphan containers ([task5-portainer-1]) for this project. If you removed or renamed this service in your compose file, you can run this command with the --remove-orphans flag to clean it up.- означает предупреждение, что найдены контейнеры, которые не описаны в файле. для очистки их выполнить с флагом --remove-orphans :
 
