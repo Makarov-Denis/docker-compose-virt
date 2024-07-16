@@ -170,6 +170,8 @@ services:
 
 Решение:
 
+Представлено ниже:
+
 Созданный docker.yaml c include
 
 ```
@@ -185,8 +187,6 @@ services:
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock
 ```
-
-Представлено на скриншотах ниже:
 
 ![compose up1](https://github.com/user-attachments/assets/9c94394d-0a9b-493a-9a10-8986644df5a6)
 
