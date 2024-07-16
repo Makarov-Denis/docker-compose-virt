@@ -56,6 +56,7 @@ Hey, Netology
 ![Проверка работы3](https://github.com/user-attachments/assets/9a9be93c-8dd8-449c-a57e-91de27e85ab5)
 
 
+
 ## Задача 3
 1. Воспользуйтесь docker help или google, чтобы узнать как подключиться к стандартному потоку ввода/вывода/ошибок контейнера "custom-nginx-t2".
 2. Подключитесь к контейнеру и нажмите комбинацию Ctrl-C.
@@ -81,6 +82,8 @@ Hey, Netology
 Контейнер завершил свою работу, т.к. на вход контейнера был послан сигнал cntl-c = "signal 2 (SIGINT)" . Контейнер отработал сигнал (т.е. он может отрабатывать этот сигнал в его коде) и завершил работу и вывел в лог причину.
 
 ![Снимок](https://github.com/user-attachments/assets/cd75be13-ed3b-4031-92bc-6ac0809ea71f)
+
+![Проверка работы4](https://github.com/user-attachments/assets/d07c008d-b835-47a7-9943-253b54d8c95f)
 
 ![Проверка работы5](https://github.com/user-attachments/assets/c2f0576d-a646-4ac6-8123-a571f56f4e16)
 
