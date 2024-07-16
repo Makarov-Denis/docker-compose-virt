@@ -30,6 +30,9 @@ Hey, Netology
 
 Решение:
 
+"https://hub.docker.com/repository/docker/dimakarov/custom-nginx/general"
+
+
 
 ## Задача 2
 1. Запустите ваш образ custom-nginx:1.0.0 командой docker run в соответвии с требованиями:
